@@ -9,4 +9,5 @@ Image is a photography magazine that seeks to showcase photographers who are doi
 ---
 
 **Disclaimer**
+
 This is a concept and not a real magazine (at least not yet). All photos are restricted by copyright and are not free to be used or distributed.
